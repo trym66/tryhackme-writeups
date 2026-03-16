@@ -1,2 +1,7 @@
 # tryhackme-writeups
-Writeups from TryHackMe — documenting my progress in cybersecurity.
+
+A collection of my TryHackMe writeups.
+
+| Machine | Difficulty | Category |
+|---------|-----------|----------|
+| [Neighbour](writeups/neighbour/writeup.md) | Easy | Web Exploitation |
